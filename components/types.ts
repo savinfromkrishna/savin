@@ -50,7 +50,8 @@ export enum Page {
   MENTORSHIP = 'mentorship',
   LEGAL = 'legal',
   RESUME = 'resume',
-  NOW = 'now'
+  NOW = 'now',
+  PROJECT_DETAILS = "PROJECT_DETAILS"
 }
 
 export enum GenerationStatus {
